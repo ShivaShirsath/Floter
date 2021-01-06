@@ -1,5 +1,5 @@
 # Floter
-
+```java
 import android.app.Service;
 import android.content.Intent;
 import android.graphics.Color;
@@ -144,3 +144,4 @@ public class FloatingView extends Service{
     }
 
 }
+```
